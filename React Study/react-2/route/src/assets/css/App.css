@@ -1,0 +1,16 @@
+#cont{
+  width: 500px;
+  height: 500px;
+  border: 3px darkcyan dashed;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  text-align: center;
+}
+
+#cont .active{
+  background: red;
+}
